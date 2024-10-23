@@ -7,3 +7,4 @@
 ./target/test-classes
 ./.vscode
 ./target/demo-1.0.jar
+./src/test
