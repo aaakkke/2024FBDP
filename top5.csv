@@ -1,0 +1,499 @@
+NOC,Sport,Event,TotalMedals,GoldMedals,SportEvent,rank
+AFG,Taekwondo,Taekwondo Men's Featherweight,1,0,Taekwondo - Taekwondo Men's Featherweight,1
+AFG,Taekwondo,Taekwondo Men's Flyweight,1,0,Taekwondo - Taekwondo Men's Flyweight,2
+AIN,Tennis,Women's Doubles,2,0,Tennis - Women's Doubles,1
+AIN,Trampoline Gymnastics,Women,1,0,Trampoline Gymnastics - Women,2
+AIN,Rowing,Men's Single Sculls,1,0,Rowing - Men's Single Sculls,3
+AIN,Weightlifting,Men's 102kg,1,0,Weightlifting - Men's 102kg,4
+AIN,Trampoline Gymnastics,Men,1,1,Trampoline Gymnastics - Men,5
+ALB,Wrestling,Men's Freestyle 74kg,1,0,Wrestling - Men's Freestyle 74kg,1
+ALB,Wrestling,Men's Freestyle 65kg,1,0,Wrestling - Men's Freestyle 65kg,2
+ALG,Athletics,"Athletics Men's 1,500 metres",2,1,"Athletics - Athletics Men's 1,500 metres",1
+ALG,Judo,Judo Men's Middleweight,1,0,Judo - Judo Men's Middleweight,2
+ALG,Judo,Judo Women's Half-Lightweight,1,0,Judo - Judo Women's Half-Lightweight,3
+ALG,Athletics,Athletics Men's 800 metres,1,0,Athletics - Athletics Men's 800 metres,4
+ALG,Artistic Gymnastics,Women's Uneven Bars,1,1,Artistic Gymnastics - Women's Uneven Bars,5
+ARG,Hockey,Hockey Women's Hockey,31,0,Hockey - Hockey Women's Hockey,1
+ARG,Hockey,Hockey Men's Hockey,18,18,Hockey - Hockey Men's Hockey,2
+ARG,Football,Football Men's Football,18,18,Football - Football Men's Football,3
+ARG,Hockey,Women Team,18,0,Hockey - Women Team,4
+ARG,Hockey,Women,16,0,Hockey - Women,5
+ARM,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",2,1,"Wrestling - Wrestling Men's Heavyweight, Greco-Roman",1
+ARM,Wrestling,Men's Greco-Roman 97kg,2,0,Wrestling - Men's Greco-Roman 97kg,2
+ARM,Artistic Gymnastics,Men's Vault,2,0,Artistic Gymnastics - Men's Vault,3
+ARM,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",1,0,"Wrestling - Wrestling Men's Welterweight, Greco-Roman",4
+ARM,Weightlifting,Weightlifting Men's Middleweight,1,0,Weightlifting - Weightlifting Men's Middleweight,5
+AUS,Hockey,Hockey Men's Hockey,33,0,Hockey - Hockey Men's Hockey,1
+AUS,Water Polo,Water Polo Women's Water Polo,26,0,Water Polo - Water Polo Women's Water Polo,2
+AUS,Basketball,Basketball Women's Basketball,24,0,Basketball - Basketball Women's Basketball,3
+AUS,Swimming,Swimming Women's 4 x 200 metres Freestyle Relay,21,8,Swimming - Swimming Women's 4 x 200 metres Freestyle Relay,4
+AUS,Swimming,Swimming Women's 4 x 100 metres Medley Relay,19,7,Swimming - Swimming Women's 4 x 100 metres Medley Relay,5
+AUT,Sailing,Sailing Mixed Multihull,2,0,Sailing - Sailing Mixed Multihull,1
+AUT,Sailing,Mixed Dinghy,2,2,Sailing - Mixed Dinghy,2
+AUT,Judo,Women -70 kg,2,0,Judo - Women -70 kg,3
+AUT,Swimming,Swimming Women's 100 metres Breaststroke,1,0,Swimming - Swimming Women's 100 metres Breaststroke,4
+AUT,Judo,Judo Men's Extra-Lightweight,1,0,Judo - Judo Men's Extra-Lightweight,5
+AZE,Wrestling,"Wrestling Men's Heavyweight, Freestyle",3,0,"Wrestling - Wrestling Men's Heavyweight, Freestyle",1
+AZE,Wrestling,"Wrestling Women's Flyweight, Freestyle",3,0,"Wrestling - Wrestling Women's Flyweight, Freestyle",2
+AZE,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",2,0,"Wrestling - Wrestling Men's Featherweight, Greco-Roman",3
+AZE,Judo,Judo Men's Lightweight,2,1,Judo - Judo Men's Lightweight,4
+AZE,Judo,Judo Men's Half-Heavyweight,2,0,Judo - Judo Men's Half-Heavyweight,5
+BAH,Athletics,Athletics Men's 4 x 400 metres Relay,15,4,Athletics - Athletics Men's 4 x 400 metres Relay,1
+BAH,Athletics,Athletics Women's 400 metres,1,1,Athletics - Athletics Women's 400 metres,2
+BAH,Athletics,Athletics Men's Triple Jump,1,0,Athletics - Athletics Men's Triple Jump,3
+BAH,Athletics,Men's 400m,1,1,Athletics - Men's 400m,4
+BAH,Athletics,Women's 400m,1,1,Athletics - Women's 400m,5
+BDI,Athletics,Athletics Women's 800 metres,1,0,Athletics - Athletics Women's 800 metres,1
+BEL,Hockey,Men Team,18,18,Hockey - Men Team,1
+BEL,Hockey,Hockey Men's Hockey,16,0,Hockey - Hockey Men's Hockey,2
+BEL,Athletics,Athletics Women's 4 x 100 metres Relay,4,0,Athletics - Athletics Women's 4 x 100 metres Relay,3
+BEL,Equestrian,Jumping Team,4,0,Equestrian - Jumping Team,4
+BEL,Athletics,Women's Heptathlon,3,2,Athletics - Women's Heptathlon,5
+BER,Triathlon,Women's Individual,1,1,Triathlon - Women's Individual,1
+BLR,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,12,0,Rhythmic Gymnastics - Rhythmic Gymnastics Women's Group,1
+BLR,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",8,0,"Canoeing - Canoeing Women's Kayak Fours, 500 metres",2
+BLR,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",4,4,"Canoeing - Canoeing Men's Kayak Fours, 1,000 metres",3
+BLR,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",4,2,"Canoeing - Canoeing Men's Canadian Doubles, 1,000 metres",4
+BLR,Canoe Sprint,Women's Kayak Four 500m Team,4,0,Canoe Sprint - Women's Kayak Four 500m Team,5
+BOT,Athletics,Men's 4 x 400m Relay Team,6,0,Athletics - Men's 4 x 400m Relay Team,1
+BOT,Athletics,Men's 4 x 400m Relay,6,0,Athletics - Men's 4 x 400m Relay,2
+BOT,Athletics,Athletics Men's 800 metres,1,0,Athletics - Athletics Men's 800 metres,3
+BOT,Athletics,Men's 200m,1,1,Athletics - Men's 200m,4
+BRA,Football,Football Men's Football,52,17,Football - Football Men's Football,1
+BRA,Volleyball,Volleyball Men's Volleyball,36,12,Volleyball - Volleyball Men's Volleyball,2
+BRA,Volleyball,Volleyball Women's Volleyball,24,24,Volleyball - Volleyball Women's Volleyball,3
+BRA,Football,Men Team,22,22,Football - Men Team,4
+BRA,Football,Women,22,0,Football - Women,5
+BRN,Athletics,"Athletics Women's 3,000 metres Steeplechase",1,1,"Athletics - Athletics Women's 3,000 metres Steeplechase",1
+BRN,Athletics,"Athletics Women's 1,500 metres",1,0,"Athletics - Athletics Women's 1,500 metres",2
+BRN,Athletics,Athletics Women's Marathon,1,0,Athletics - Athletics Women's Marathon,3
+BRN,Athletics,"Women's 10,000m",1,0,"Athletics - Women's 10,000m",4
+BRN,Athletics,Women's 3000m Steeplechase,1,1,Athletics - Women's 3000m Steeplechase,5
+BUL,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,5,0,Rhythmic Gymnastics - Rhythmic Gymnastics Women's Group,1
+BUL,Rhythmic Gymnastics,Group All-Around Team,5,5,Rhythmic Gymnastics - Group All-Around Team,2
+BUL,Wrestling,"Wrestling Women's Heavyweight, Freestyle",2,0,"Wrestling - Wrestling Women's Heavyweight, Freestyle",3
+BUL,Athletics,Athletics Women's High Jump,1,0,Athletics - Athletics Women's High Jump,4
+BUL,Rowing,Rowing Women's Single Sculls,1,1,Rowing - Rowing Women's Single Sculls,5
+BUR,Athletics,Men's Triple Jump,1,0,Athletics - Men's Triple Jump,1
+CAN,Football,Football Women's Football,36,0,Football - Football Women's Football,1
+CAN,Football,Women Team,22,22,Football - Women Team,2
+CAN,Rowing,Rowing Men's Coxed Eights,18,9,Rowing - Rowing Men's Coxed Eights,3
+CAN,Baseball/Softball,Softball Team,15,0,Baseball/Softball - Softball Team,4
+CAN,Rugby Sevens,Women,14,0,Rugby Sevens - Women,5
+CHI,Tennis,Tennis Men's Singles,1,0,Tennis - Tennis Men's Singles,1
+CHI,Wrestling,Men's Greco-Roman 130kg,1,0,Wrestling - Men's Greco-Roman 130kg,2
+CHI,Shooting,Skeet Women,1,1,Shooting - Skeet Women,3
+CHN,Synchronized Swimming,Synchronized Swimming Women's Team,27,0,Synchronized Swimming - Synchronized Swimming Women's Team,1
+CHN,Volleyball,Volleyball Women's Volleyball,24,12,Volleyball - Volleyball Women's Volleyball,2
+CHN,Artistic Swimming,Team,17,9,Artistic Swimming - Team,3
+CHN,Hockey,Women,17,0,Hockey - Women,4
+CHN,Gymnastics,Gymnastics Men's Team All-Around,16,11,Gymnastics - Gymnastics Men's Team All-Around,5
+CIV,Taekwondo,Taekwondo Men's Welterweight,1,1,Taekwondo - Taekwondo Men's Welterweight,1
+CIV,Taekwondo,Taekwondo Women's Welterweight,1,0,Taekwondo - Taekwondo Women's Welterweight,2
+CIV,Taekwondo,Men +80kg,1,0,Taekwondo - Men +80kg,3
+CIV,Taekwondo,Women -67kg,1,0,Taekwondo - Women -67kg,4
+CMR,Athletics,Athletics Women's Triple Jump,1,1,Athletics - Athletics Women's Triple Jump,1
+COL,Weightlifting,Weightlifting Men's Featherweight,3,1,Weightlifting - Weightlifting Men's Featherweight,1
+COL,Judo,Judo Women's Middleweight,2,0,Judo - Judo Women's Middleweight,2
+COL,Athletics,Athletics Women's Triple Jump,2,1,Athletics - Athletics Women's Triple Jump,3
+COL,Wrestling,"Wrestling Women's Lightweight, Freestyle",2,0,"Wrestling - Wrestling Women's Lightweight, Freestyle",4
+COL,Cycling,Cycling Women's BMX,2,2,Cycling - Cycling Women's BMX,5
+CPV,Boxing,Men's 51kg,1,0,Boxing - Men's 51kg,1
+CRO,Water Polo,Water Polo Men's Water Polo,26,13,Water Polo - Water Polo Men's Water Polo,1
+CRO,Handball,Handball Men's Handball,15,0,Handball - Handball Men's Handball,2
+CRO,Water Polo,Men,13,0,Water Polo - Men,3
+CRO,Rowing,Rowing Men's Quadruple Sculls,4,0,Rowing - Rowing Men's Quadruple Sculls,4
+CRO,Tennis,Men's Doubles Team,4,2,Tennis - Men's Doubles Team,5
+CUB,Baseball,Baseball Men's Baseball,24,0,Baseball - Baseball Men's Baseball,1
+CUB,Boxing,Boxing Men's Lightweight,3,0,Boxing - Boxing Men's Lightweight,2
+CUB,Boxing,Boxing Men's Bantamweight,3,1,Boxing - Boxing Men's Bantamweight,3
+CUB,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",3,3,"Wrestling - Wrestling Men's Super-Heavyweight, Greco-Roman",4
+CUB,Judo,Judo Women's Heavyweight,3,1,Judo - Judo Women's Heavyweight,5
+CYP,Sailing,Sailing Men's One Person Dinghy,1,0,Sailing - Sailing Men's One Person Dinghy,1
+CYP,Sailing,Men's Dinghy,1,0,Sailing - Men's Dinghy,2
+CZE,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",8,0,"Canoeing - Canoeing Men's Kayak Fours, 1,000 metres",1
+CZE,Tennis,Tennis Women's Doubles,4,0,Tennis - Tennis Women's Doubles,2
+CZE,Fencing,Men's Épée Team,4,0,Fencing - Men's Épée Team,3
+CZE,Rowing,Rowing Men's Single Sculls,3,0,Rowing - Rowing Men's Single Sculls,4
+CZE,Athletics,Athletics Women's Javelin Throw,3,2,Athletics - Athletics Women's Javelin Throw,5
+DEN,Handball,Men,16,16,Handball - Men,1
+DEN,Handball,Men Team,15,0,Handball - Men Team,2
+DEN,Handball,Women,15,0,Handball - Women,3
+DEN,Handball,Handball Men's Handball,14,14,Handball - Handball Men's Handball,4
+DEN,Rowing,Rowing Men's Lightweight Coxless Fours,12,4,Rowing - Rowing Men's Lightweight Coxless Fours,5
+DMA,Athletics,Women's Triple Jump,1,1,Athletics - Women's Triple Jump,1
+DOM,Baseball/Softball,Baseball Team,24,0,Baseball/Softball - Baseball Team,1
+DOM,Athletics,4 x 400m Relay Mixed Team,5,0,Athletics - 4 x 400m Relay Mixed Team,2
+DOM,Taekwondo,Taekwondo Men's Flyweight,2,0,Taekwondo - Taekwondo Men's Flyweight,3
+DOM,Athletics,Women's 400m,2,1,Athletics - Women's 400m,4
+DOM,Boxing,Boxing Men's Light-Welterweight,1,1,Boxing - Boxing Men's Light-Welterweight,5
+ECU,Athletics,Marathon Race Walk Relay Mixed,2,0,Athletics - Marathon Race Walk Relay Mixed,1
+ECU,Athletics,Athletics Men's 20 kilometres Walk,1,0,Athletics - Athletics Men's 20 kilometres Walk,2
+ECU,Weightlifting,Women's 81kg,1,0,Weightlifting - Women's 81kg,3
+ECU,Weightlifting,Women's 71kg,1,0,Weightlifting - Women's 71kg,4
+ECU,Athletics,Men's 20km Race Walk,1,1,Athletics - Men's 20km Race Walk,5
+EGY,Modern Pentathlon,Men's Individual,2,1,Modern Pentathlon - Men's Individual,1
+EGY,Fencing,"Fencing Men's Foil, Individual",1,0,"Fencing - Fencing Men's Foil, Individual",2
+EGY,Weightlifting,Weightlifting Men's Middleweight,1,0,Weightlifting - Weightlifting Men's Middleweight,3
+EGY,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,"Wrestling - Wrestling Men's Light-Heavyweight, Greco-Roman",4
+EGY,Taekwondo,Taekwondo Women's Featherweight,1,0,Taekwondo - Taekwondo Women's Featherweight,5
+EOR,Boxing,Women's 75kg,1,0,Boxing - Women's 75kg,1
+ESP,Basketball,Basketball Men's Basketball,36,0,Basketball - Basketball Men's Basketball,1
+ESP,Football,Men Team,22,0,Football - Men Team,2
+ESP,Football,Men,22,22,Football - Men,3
+ESP,Synchronized Swimming,Synchronized Swimming Women's Team,16,0,Synchronized Swimming - Synchronized Swimming Women's Team,4
+ESP,Hockey,Hockey Men's Hockey,16,0,Hockey - Hockey Men's Hockey,5
+EST,Rowing,Rowing Men's Quadruple Sculls,4,0,Rowing - Rowing Men's Quadruple Sculls,1
+EST,Fencing,Women's Épée Team,4,4,Fencing - Women's Épée Team,2
+EST,Rowing,Rowing Men's Double Sculls,2,0,Rowing - Rowing Men's Double Sculls,3
+EST,Athletics,Athletics Men's Discus Throw,2,1,Athletics - Athletics Men's Discus Throw,4
+EST,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",1,0,"Wrestling - Wrestling Men's Super-Heavyweight, Greco-Roman",5
+ETH,Athletics,"Athletics Women's 5,000 metres",5,2,"Athletics - Athletics Women's 5,000 metres",1
+ETH,Athletics,"Athletics Women's 10,000 metres",4,3,"Athletics - Athletics Women's 10,000 metres",2
+ETH,Athletics,"Athletics Men's 10,000 metres",4,1,"Athletics - Athletics Men's 10,000 metres",3
+ETH,Athletics,"Athletics Men's 5,000 metres",3,1,"Athletics - Athletics Men's 5,000 metres",4
+ETH,Athletics,Athletics Women's Marathon,2,1,Athletics - Athletics Women's Marathon,5
+FIJ,Rugby Sevens,Men,14,0,Rugby Sevens - Men,1
+FIJ,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,13,13,Rugby Sevens - Rugby Sevens Men's Rugby Sevens,2
+FIJ,Rugby Sevens,Women Team,13,0,Rugby Sevens - Women Team,3
+FIJ,Rugby Sevens,Men Team,13,13,Rugby Sevens - Men Team,4
+FIN,Sailing,Sailing Women's Three Person Keelboat,3,0,Sailing - Sailing Women's Three Person Keelboat,1
+FIN,Athletics,Athletics Men's Javelin Throw,2,0,Athletics - Athletics Men's Javelin Throw,2
+FIN,Rowing,Rowing Women's Lightweight Double Sculls,2,0,Rowing - Rowing Women's Lightweight Double Sculls,3
+FIN,Shooting,"Shooting Men's Air Rifle, 10 metres",1,0,"Shooting - Shooting Men's Air Rifle, 10 metres",4
+FIN,Shooting,Shooting Women's Trap,1,1,Shooting - Shooting Women's Trap,5
+FRA,Handball,Handball Men's Handball,45,30,Handball - Handball Men's Handball,1
+FRA,Judo,Mixed Team,25,25,Judo - Mixed Team,2
+FRA,Football,Men,21,0,Football - Men,3
+FRA,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,18,6,Swimming - Swimming Men's 4 x 100 metres Freestyle Relay,4
+FRA,Handball,Women,17,0,Handball - Women,5
+GAB,Taekwondo,Taekwondo Men's Heavyweight,1,0,Taekwondo - Taekwondo Men's Heavyweight,1
+GBR,Hockey,Hockey Women's Hockey,32,16,Hockey - Hockey Women's Hockey,1
+GBR,Rowing,Rowing Men's Coxed Eights,27,9,Rowing - Rowing Men's Coxed Eights,2
+GBR,Hockey,Women Team,18,0,Hockey - Women Team,3
+GBR,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",12,12,"Cycling - Cycling Men's Team Pursuit, 4,000 metres",4
+GBR,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,12,0,Rugby Sevens - Rugby Sevens Men's Rugby Sevens,5
+GEO,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",2,0,"Wrestling - Wrestling Men's Welterweight, Greco-Roman",1
+GEO,Wrestling,"Wrestling Men's Heavyweight, Freestyle",2,0,"Wrestling - Wrestling Men's Heavyweight, Freestyle",2
+GEO,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",2,1,"Wrestling - Wrestling Men's Light-Heavyweight, Freestyle",3
+GEO,Judo,Judo Men's Middleweight,2,1,Judo - Judo Men's Middleweight,4
+GEO,Wrestling,"Wrestling Men's Featherweight, Freestyle",2,1,"Wrestling - Wrestling Men's Featherweight, Freestyle",5
+GER,Hockey,Hockey Men's Hockey,49,33,Hockey - Hockey Men's Hockey,1
+GER,Football,Football Women's Football,34,18,Football - Football Women's Football,2
+GER,Football,Women,20,0,Football - Women,3
+GER,Rowing,Rowing Men's Coxed Eights,18,9,Rowing - Rowing Men's Coxed Eights,4
+GER,Hockey,Men,18,0,Hockey - Men,5
+GHA,Boxing,Men's Feather (52-57kg),1,0,Boxing - Men's Feather (52-57kg),1
+GRE,Water Polo,Men Team,13,0,Water Polo - Men Team,1
+GRE,Sailing,Sailing Women's Three Person Keelboat,3,0,Sailing - Sailing Women's Three Person Keelboat,2
+GRE,Rowing,Rowing Women's Lightweight Double Sculls,2,0,Rowing - Rowing Women's Lightweight Double Sculls,3
+GRE,Sailing,Sailing Men's Two Person Dinghy,2,0,Sailing - Sailing Men's Two Person Dinghy,4
+GRE,Rowing,Rowing Men's Lightweight Double Sculls,2,0,Rowing - Rowing Men's Lightweight Double Sculls,5
+GRN,Athletics,Athletics Men's 400 metres,2,1,Athletics - Athletics Men's 400 metres,1
+GRN,Athletics,Men's Decathlon,1,0,Athletics - Men's Decathlon,2
+GRN,Athletics,Men's 400m,1,0,Athletics - Men's 400m,3
+GRN,Athletics,Men's Javelin Throw,1,0,Athletics - Men's Javelin Throw,4
+GUA,Athletics,Athletics Men's 20 kilometres Walk,1,0,Athletics - Athletics Men's 20 kilometres Walk,1
+GUA,Shooting,Trap Men,1,0,Shooting - Trap Men,2
+GUA,Shooting,Trap Women,1,1,Shooting - Trap Women,3
+HKG,Table Tennis,Women's Team,3,0,Table Tennis - Women's Team,1
+HKG,Fencing,Men's Foil Individual,2,2,Fencing - Men's Foil Individual,2
+HKG,Swimming,Women's 100m Freestyle,2,0,Swimming - Women's 100m Freestyle,3
+HKG,Swimming,Women's 200m Freestyle,2,0,Swimming - Women's 200m Freestyle,4
+HKG,Cycling,Cycling Women's Keirin,1,0,Cycling - Cycling Women's Keirin,5
+HUN,Water Polo,Water Polo Men's Water Polo,13,13,Water Polo - Water Polo Men's Water Polo,1
+HUN,Water Polo,Men Team,13,0,Water Polo - Men Team,2
+HUN,Water Polo,Women Team,13,0,Water Polo - Women Team,3
+HUN,Canoeing,"Canoeing Women's Kayak Fours, 500 metres",12,8,"Canoeing - Canoeing Women's Kayak Fours, 500 metres",4
+HUN,Fencing,Men's Sabre Team,8,0,Fencing - Men's Sabre Team,5
+INA,Badminton,Badminton Mixed Doubles,4,2,Badminton - Badminton Mixed Doubles,1
+INA,Weightlifting,Weightlifting Men's Featherweight,3,0,Weightlifting - Weightlifting Men's Featherweight,2
+INA,Badminton,Badminton Men's Doubles,2,2,Badminton - Badminton Men's Doubles,3
+INA,Badminton,Women's Doubles Team,2,2,Badminton - Women's Doubles Team,4
+INA,Weightlifting,Men's 73kg,2,1,Weightlifting - Men's 73kg,5
+IND,Hockey,Men Team,18,0,Hockey - Men Team,1
+IND,Hockey,Men,16,0,Hockey - Men,2
+IND,Shooting,"Shooting Men's Air Rifle, 10 metres",2,1,"Shooting - Shooting Men's Air Rifle, 10 metres",3
+IND,Wrestling,"Wrestling Men's Welterweight, Freestyle",2,0,"Wrestling - Wrestling Men's Welterweight, Freestyle",4
+IND,Badminton,Badminton Women's Singles,2,0,Badminton - Badminton Women's Singles,5
+IOA,Shooting,Shooting Men's Double Trap,1,1,Shooting - Shooting Men's Double Trap,1
+IOA,Shooting,Shooting Men's Skeet,1,0,Shooting - Shooting Men's Skeet,2
+IRI,Weightlifting,Weightlifting Men's Super-Heavyweight,2,1,Weightlifting - Weightlifting Men's Super-Heavyweight,1
+IRI,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",2,0,"Wrestling - Wrestling Men's Super-Heavyweight, Freestyle",2
+IRI,Wrestling,"Wrestling Men's Middleweight, Freestyle",2,1,"Wrestling - Wrestling Men's Middleweight, Freestyle",3
+IRI,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",2,1,"Wrestling - Wrestling Men's Heavyweight, Greco-Roman",4
+IRI,Weightlifting,Weightlifting Men's Light-Heavyweight,2,1,Weightlifting - Weightlifting Men's Light-Heavyweight,5
+IRL,Rowing,Women's Four Team,4,0,Rowing - Women's Four Team,1
+IRL,Boxing,Boxing Men's Light-Flyweight,2,0,Boxing - Boxing Men's Light-Flyweight,2
+IRL,Rowing,Rowing Men's Lightweight Double Sculls,2,0,Rowing - Rowing Men's Lightweight Double Sculls,3
+IRL,Rowing,Lightweight Men's Double Sculls,2,2,Rowing - Lightweight Men's Double Sculls,4
+IRL,Rowing,Men's Double Sculls,2,0,Rowing - Men's Double Sculls,5
+ISL,Handball,Handball Men's Handball,14,0,Handball - Handball Men's Handball,1
+ISR,Judo,Mixed Team,11,0,Judo - Mixed Team,1
+ISR,Rhythmic Gymnastics,Group All-Around,5,0,Rhythmic Gymnastics - Group All-Around,2
+ISR,Artistic Gymnastics,Men's Floor Exercise,2,1,Artistic Gymnastics - Men's Floor Exercise,3
+ISR,Judo,Judo Women's Half-Middleweight,1,0,Judo - Judo Women's Half-Middleweight,4
+ISR,Judo,Judo Men's Heavyweight,1,0,Judo - Judo Men's Heavyweight,5
+ITA,Water Polo,Water Polo Men's Water Polo,26,0,Water Polo - Water Polo Men's Water Polo,1
+ITA,Volleyball,Volleyball Men's Volleyball,24,0,Volleyball - Volleyball Men's Volleyball,2
+ITA,Water Polo,Water Polo Women's Water Polo,13,0,Water Polo - Water Polo Women's Water Polo,3
+ITA,Volleyball,Women,13,13,Volleyball - Women,4
+ITA,Fencing,"Fencing Men's epee, Team",8,0,"Fencing - Fencing Men's epee, Team",5
+JAM,Athletics,Athletics Women's 4 x 400 metres Relay,16,0,Athletics - Athletics Women's 4 x 400 metres Relay,1
+JAM,Athletics,Athletics Women's 4 x 100 metres Relay,12,0,Athletics - Athletics Women's 4 x 100 metres Relay,2
+JAM,Athletics,Athletics Men's 4 x 100 metres Relay,11,11,Athletics - Athletics Men's 4 x 100 metres Relay,3
+JAM,Athletics,Women's 4 x 400m Relay Team,8,0,Athletics - Women's 4 x 400m Relay Team,4
+JAM,Athletics,Athletics Women's 100 metres,7,3,Athletics - Athletics Women's 100 metres,5
+JOR,Taekwondo,Taekwondo Men's Featherweight,1,1,Taekwondo - Taekwondo Men's Featherweight,1
+JOR,Karate,Men's Kumite -67kg,1,0,Karate - Men's Kumite -67kg,2
+JOR,Taekwondo,Men -68kg,1,0,Taekwondo - Men -68kg,3
+JOR,Taekwondo,Men -80kg,1,0,Taekwondo - Men -80kg,4
+JPN,Judo,Mixed Team,26,0,Judo - Mixed Team,1
+JPN,Baseball/Softball,Baseball Team,24,24,Baseball/Softball - Baseball Team,2
+JPN,Football,Football Women's Football,18,0,Football - Football Women's Football,3
+JPN,Gymnastics,Gymnastics Men's Team All-Around,16,5,Gymnastics - Gymnastics Men's Team All-Around,4
+JPN,Softball,Softball Women's Softball,15,15,Softball - Softball Women's Softball,5
+KAZ,Weightlifting,Weightlifting Women's Middleweight,3,1,Weightlifting - Weightlifting Women's Middleweight,1
+KAZ,Boxing,Boxing Men's Light-Heavyweight,3,0,Boxing - Boxing Men's Light-Heavyweight,2
+KAZ,Boxing,Boxing Men's Welterweight,3,3,Boxing - Boxing Men's Welterweight,3
+KAZ,Boxing,Boxing Men's Super-Heavyweight,2,0,Boxing - Boxing Men's Super-Heavyweight,4
+KAZ,Weightlifting,Weightlifting Men's Middle-Heavyweight,2,2,Weightlifting - Weightlifting Men's Middle-Heavyweight,5
+KEN,Athletics,Athletics Men's 800 metres,5,3,Athletics - Athletics Men's 800 metres,1
+KEN,Athletics,"Athletics Men's 3,000 metres Steeplechase",5,3,"Athletics - Athletics Men's 3,000 metres Steeplechase",2
+KEN,Athletics,"Athletics Women's 10,000 metres",4,0,"Athletics - Athletics Women's 10,000 metres",3
+KEN,Athletics,Athletics Men's Marathon,4,2,Athletics - Athletics Men's Marathon,4
+KEN,Athletics,"Athletics Women's 5,000 metres",3,1,"Athletics - Athletics Women's 5,000 metres",5
+KGZ,Wrestling,Women's Freestyle 68kg,2,0,Wrestling - Women's Freestyle 68kg,1
+KGZ,Wrestling,Men's Greco-Roman 77kg,2,0,Wrestling - Men's Greco-Roman 77kg,2
+KGZ,Wrestling,Women's Freestyle 62kg,2,0,Wrestling - Women's Freestyle 62kg,3
+KGZ,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",1,0,"Wrestling - Wrestling Men's Welterweight, Greco-Roman",4
+KGZ,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,"Wrestling - Wrestling Men's Lightweight, Greco-Roman",5
+KOR,Baseball,Baseball Men's Baseball,24,24,Baseball - Baseball Men's Baseball,1
+KOR,Football,Football Men's Football,18,0,Football - Football Men's Football,2
+KOR,Handball,Handball Women's Handball,14,0,Handball - Handball Women's Handball,3
+KOR,Judo,Mixed Team,11,0,Judo - Mixed Team,4
+KOR,Archery,Archery Women's Team,9,9,Archery - Archery Women's Team,5
+KOS,Judo,Judo Women's Half-Lightweight,1,1,Judo - Judo Women's Half-Lightweight,1
+KOS,Judo,Women -48 kg,1,1,Judo - Women -48 kg,2
+KOS,Judo,Women -63 kg,1,0,Judo - Women -63 kg,3
+KOS,Judo,Women -52 kg,1,0,Judo - Women -52 kg,4
+KOS,Judo,Women -57 kg,1,1,Judo - Women -57 kg,5
+KSA,Equestrianism,"Equestrianism Mixed Jumping, Team",4,0,"Equestrianism - Equestrianism Mixed Jumping, Team",1
+KSA,Karate,Men's Kumite +75kg,1,0,Karate - Men's Kumite +75kg,2
+KUW,Shooting,Shooting Men's Trap,1,0,Shooting - Shooting Men's Trap,1
+KUW,Shooting,Skeet Men,1,0,Shooting - Skeet Men,2
+LAT,3x3 Basketball,Men Team,4,4,3x3 Basketball - Men Team,1
+LAT,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,2,0,Beach Volleyball - Beach Volleyball Men's Beach Volleyball,2
+LAT,Cycling,Cycling Men's BMX,2,2,Cycling - Cycling Men's BMX,3
+LAT,Athletics,Athletics Men's Javelin Throw,1,0,Athletics - Athletics Men's Javelin Throw,4
+LAT,Weightlifting,Weightlifting Men's Super-Heavyweight,1,0,Weightlifting - Weightlifting Men's Super-Heavyweight,5
+LCA,Athletics,Women's 200m,1,0,Athletics - Women's 200m,1
+LCA,Athletics,Women's 100m,1,1,Athletics - Women's 100m,2
+LTU,3x3 Basketball,Men,4,0,3x3 Basketball - Men,1
+LTU,Rowing,Rowing Men's Double Sculls,2,0,Rowing - Rowing Men's Double Sculls,2
+LTU,Modern Pentathlon,Modern Pentathlon Men's Individual,2,0,Modern Pentathlon - Modern Pentathlon Men's Individual,3
+LTU,Canoeing,"Canoeing Men's Kayak Doubles, 200 metres",2,0,"Canoeing - Canoeing Men's Kayak Doubles, 200 metres",4
+LTU,Rowing,Rowing Women's Double Sculls,2,0,Rowing - Rowing Women's Double Sculls,5
+MAR,Football,Men,19,0,Football - Men,1
+MAR,Athletics,Men's 3000m Steeplechase,2,2,Athletics - Men's 3000m Steeplechase,2
+MAR,Athletics,Athletics Women's 800 metres,1,0,Athletics - Athletics Women's 800 metres,3
+MAR,Athletics,Athletics Men's Marathon,1,0,Athletics - Athletics Men's Marathon,4
+MAR,Athletics,"Athletics Men's 1,500 metres",1,0,"Athletics - Athletics Men's 1,500 metres",5
+MAS,Badminton,Badminton Men's Singles,3,0,Badminton - Badminton Men's Singles,1
+MAS,Badminton,Badminton Mixed Doubles,2,0,Badminton - Badminton Mixed Doubles,2
+MAS,Diving,Diving Women's Synchronized Platform,2,0,Diving - Diving Women's Synchronized Platform,3
+MAS,Badminton,Badminton Men's Doubles,2,0,Badminton - Badminton Men's Doubles,4
+MAS,Badminton,Men's Doubles Team,2,0,Badminton - Men's Doubles Team,5
+MDA,Canoe Sprint,Men's Canoe Single 1000m,2,0,Canoe Sprint - Men's Canoe Single 1000m,1
+MDA,Weightlifting,Weightlifting Men's Middle-Heavyweight,1,0,Weightlifting - Weightlifting Men's Middle-Heavyweight,2
+MDA,Boxing,Boxing Men's Bantamweight,1,0,Boxing - Boxing Men's Bantamweight,3
+MDA,Weightlifting,Weightlifting Women's Featherweight,1,0,Weightlifting - Weightlifting Women's Featherweight,4
+MDA,Judo,Men -66 kg,1,0,Judo - Men -66 kg,5
+MEX,Football,Men Team,22,0,Football - Men Team,1
+MEX,Football,Football Men's Football,16,16,Football - Football Men's Football,2
+MEX,Diving,Diving Women's Synchronized Platform,4,0,Diving - Diving Women's Synchronized Platform,3
+MEX,Taekwondo,Taekwondo Women's Heavyweight,3,1,Taekwondo - Taekwondo Women's Heavyweight,4
+MEX,Archery,Women's Team,3,0,Archery - Women's Team,5
+MGL,Judo,Judo Men's Half-Heavyweight,2,1,Judo - Judo Men's Half-Heavyweight,1
+MGL,Judo,Women -48 kg,2,0,Judo - Women -48 kg,2
+MGL,Boxing,Boxing Men's Bantamweight,1,1,Boxing - Boxing Men's Bantamweight,3
+MGL,Boxing,Boxing Men's Lightweight,1,0,Boxing - Boxing Men's Lightweight,4
+MGL,Judo,Judo Women's Lightweight,1,0,Judo - Judo Women's Lightweight,5
+MKD,Taekwondo,Men +80kg,1,0,Taekwondo - Men +80kg,1
+MNE,Handball,Handball Women's Handball,14,0,Handball - Handball Women's Handball,1
+MRI,Boxing,Boxing Men's Bantamweight,1,0,Boxing - Boxing Men's Bantamweight,1
+NAM,Athletics,Women's 200m,1,0,Athletics - Women's 200m,1
+NED,Hockey,Hockey Women's Hockey,48,32,Hockey - Hockey Women's Hockey,1
+NED,Rowing,Rowing Women's Coxed Eights,18,0,Rowing - Rowing Women's Coxed Eights,2
+NED,Hockey,Women Team,18,18,Hockey - Women Team,3
+NED,Hockey,Men,18,18,Hockey - Men,4
+NED,Hockey,Hockey Men's Hockey,17,0,Hockey - Hockey Men's Hockey,5
+NGR,Football,Football Men's Football,34,0,Football - Football Men's Football,1
+NGR,Athletics,Athletics Women's 4 x 100 metres Relay,5,0,Athletics - Athletics Women's 4 x 100 metres Relay,2
+NGR,Taekwondo,Taekwondo Men's Heavyweight,1,0,Taekwondo - Taekwondo Men's Heavyweight,3
+NGR,Athletics,Athletics Women's Long Jump,1,0,Athletics - Athletics Women's Long Jump,4
+NGR,Athletics,Women's Long Jump,1,0,Athletics - Women's Long Jump,5
+NIG,Taekwondo,Taekwondo Men's Heavyweight,1,0,Taekwondo - Taekwondo Men's Heavyweight,1
+NOR,Handball,Handball Women's Handball,42,28,Handball - Handball Women's Handball,1
+NOR,Handball,Women,15,15,Handball - Women,2
+NOR,Handball,Women Team,15,0,Handball - Women Team,3
+NOR,Rowing,Rowing Men's Double Sculls,2,0,Rowing - Rowing Men's Double Sculls,4
+NOR,Rowing,Rowing Men's Lightweight Double Sculls,2,0,Rowing - Rowing Men's Lightweight Double Sculls,5
+NZL,Rugby Sevens,Men Team,13,0,Rugby Sevens - Men Team,1
+NZL,Rugby Sevens,Women Team,13,13,Rugby Sevens - Women Team,2
+NZL,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,12,0,Rugby Sevens - Rugby Sevens Women's Rugby Sevens,3
+NZL,Rugby Sevens,Women,12,12,Rugby Sevens - Women,4
+NZL,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",10,0,"Cycling - Cycling Men's Team Pursuit, 4,000 metres",5
+PAK,Athletics,Men's Javelin Throw,1,1,Athletics - Men's Javelin Throw,1
+PAN,Athletics,Athletics Men's Long Jump,1,1,Athletics - Athletics Men's Long Jump,1
+PAN,Boxing,Women's 75kg,1,0,Boxing - Women's 75kg,2
+PER,Sailing,Men's Dinghy,1,0,Sailing - Men's Dinghy,1
+PHI,Weightlifting,Weightlifting Women's Featherweight,1,0,Weightlifting - Weightlifting Women's Featherweight,1
+PHI,Artistic Gymnastics,Men's Floor Exercise,1,1,Artistic Gymnastics - Men's Floor Exercise,2
+PHI,Weightlifting,Women's 55kg,1,1,Weightlifting - Women's 55kg,3
+PHI,Boxing,Men's Middle (69-75kg),1,0,Boxing - Men's Middle (69-75kg),4
+PHI,Artistic Gymnastics,Men's Vault,1,1,Artistic Gymnastics - Men's Vault,5
+POL,Volleyball,Men,13,0,Volleyball - Men,1
+POL,Athletics,4 x 400m Relay Mixed Team,11,11,Athletics - 4 x 400m Relay Mixed Team,2
+POL,Canoeing,"Canoeing Women's Kayak Doubles, 500 metres",6,0,"Canoeing - Canoeing Women's Kayak Doubles, 500 metres",3
+POL,Athletics,Women's 4 x 400m Relay Team,5,0,Athletics - Women's 4 x 400m Relay Team,4
+POL,Rowing,Rowing Men's Lightweight Coxless Fours,4,0,Rowing - Rowing Men's Lightweight Coxless Fours,5
+POR,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",2,0,"Canoeing - Canoeing Men's Kayak Doubles, 1,000 metres",1
+POR,Cycling Track,Men's Madison,2,2,Cycling Track - Men's Madison,2
+POR,Athletics,Men's Triple Jump,2,1,Athletics - Men's Triple Jump,3
+POR,Athletics,Athletics Men's Triple Jump,1,1,Athletics - Athletics Men's Triple Jump,4
+POR,Triathlon,Triathlon Women's Olympic Distance,1,0,Triathlon - Triathlon Women's Olympic Distance,5
+PRK,Weightlifting,Weightlifting Women's Middleweight,2,1,Weightlifting - Weightlifting Women's Middleweight,1
+PRK,Judo,Judo Women's Half-Lightweight,2,1,Judo - Judo Women's Half-Lightweight,2
+PRK,Weightlifting,Weightlifting Men's Bantamweight,2,1,Weightlifting - Weightlifting Men's Bantamweight,3
+PRK,Diving,Women's Synchronised 10m Platform,2,0,Diving - Women's Synchronised 10m Platform,4
+PRK,Table Tennis,Mixed Doubles,2,0,Table Tennis - Mixed Doubles,5
+PUR,Athletics,Women's 100m Hurdles,2,1,Athletics - Women's 100m Hurdles,1
+PUR,Athletics,Athletics Men's 400 metres Hurdles,1,0,Athletics - Athletics Men's 400 metres Hurdles,2
+PUR,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",1,0,"Wrestling - Wrestling Men's Light-Heavyweight, Freestyle",3
+PUR,Tennis,Tennis Women's Singles,1,1,Tennis - Tennis Women's Singles,4
+PUR,Wrestling,Men's Freestyle 65kg,1,0,Wrestling - Men's Freestyle 65kg,5
+QAT,Athletics,Athletics Men's High Jump,2,0,Athletics - Athletics Men's High Jump,1
+QAT,Beach Volleyball,Men Team,2,0,Beach Volleyball - Men Team,2
+QAT,Athletics,Men's High Jump,2,1,Athletics - Men's High Jump,3
+QAT,Shooting,Shooting Men's Skeet,1,0,Shooting - Shooting Men's Skeet,4
+QAT,Weightlifting,Men's 96kg,1,1,Weightlifting - Men's 96kg,5
+ROC,Handball,Women Team,15,0,Handball - Women Team,1
+ROC,Volleyball,Men Team,12,0,Volleyball - Men Team,2
+ROC,Artistic Swimming,Team,8,8,Artistic Swimming - Team,3
+ROC,Swimming,Men's 4 x 200m Freestyle Relay Team,6,0,Swimming - Men's 4 x 200m Freestyle Relay Team,4
+ROC,Rhythmic Gymnastics,Group All-Around Team,5,0,Rhythmic Gymnastics - Group All-Around Team,5
+ROU,Rowing,Rowing Women's Coxed Eights,18,0,Rowing - Rowing Women's Coxed Eights,1
+ROU,Gymnastics,Gymnastics Women's Team All-Around,11,0,Gymnastics - Gymnastics Women's Team All-Around,2
+ROU,Rowing,Women's Eight,9,9,Rowing - Women's Eight,3
+ROU,Fencing,"Fencing Women's epee, Team",4,4,"Fencing - Fencing Women's epee, Team",4
+ROU,Fencing,"Fencing Men's Sabre, Team",4,0,"Fencing - Fencing Men's Sabre, Team",5
+RSA,Rugby Sevens,Rugby Sevens Men's Rugby Sevens,13,0,Rugby Sevens - Rugby Sevens Men's Rugby Sevens,1
+RSA,Rugby Sevens,Men,13,0,Rugby Sevens - Men,2
+RSA,Rowing,Rowing Men's Lightweight Coxless Fours,4,4,Rowing - Rowing Men's Lightweight Coxless Fours,3
+RSA,Athletics,Men's 4 x 100m Relay,4,0,Athletics - Men's 4 x 100m Relay,4
+RSA,Rowing,Rowing Men's Coxless Pairs,2,0,Rowing - Rowing Men's Coxless Pairs,5
+RUS,Handball,Handball Women's Handball,29,15,Handball - Handball Women's Handball,1
+RUS,Synchronized Swimming,Synchronized Swimming Women's Team,27,27,Synchronized Swimming - Synchronized Swimming Women's Team,2
+RUS,Volleyball,Volleyball Men's Volleyball,24,12,Volleyball - Volleyball Men's Volleyball,3
+RUS,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,17,17,Rhythmic Gymnastics - Rhythmic Gymnastics Women's Group,4
+RUS,Water Polo,Water Polo Women's Water Polo,13,0,Water Polo - Water Polo Women's Water Polo,5
+SGP,Table Tennis,Table Tennis Women's Team,6,0,Table Tennis - Table Tennis Women's Team,1
+SGP,Table Tennis,Table Tennis Women's Singles,1,0,Table Tennis - Table Tennis Women's Singles,2
+SGP,Swimming,Swimming Men's 100 metres Butterfly,1,1,Swimming - Swimming Men's 100 metres Butterfly,3
+SGP,Sailing,Men's Kite,1,0,Sailing - Men's Kite,4
+SLO,Rowing,Rowing Men's Double Sculls,2,0,Rowing - Rowing Men's Double Sculls,1
+SLO,Athletics,Athletics Men's Hammer Throw,2,1,Athletics - Athletics Men's Hammer Throw,2
+SLO,Judo,Judo Women's Half-Middleweight,2,2,Judo - Judo Women's Half-Middleweight,3
+SLO,Judo,Women -63 kg,2,1,Judo - Women -63 kg,4
+SLO,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",1,0,"Shooting - Shooting Men's Small-Bore Rifle, Prone, 50 metres",5
+SMR,Shooting,Trap Mixed Team,2,0,Shooting - Trap Mixed Team,1
+SMR,Wrestling,Men's Freestyle 86kg,1,0,Wrestling - Men's Freestyle 86kg,2
+SMR,Shooting,Trap Women,1,0,Shooting - Trap Women,3
+SRB,Water Polo,Water Polo Men's Water Polo,39,13,Water Polo - Water Polo Men's Water Polo,1
+SRB,Water Polo,Men Team,13,13,Water Polo - Men Team,2
+SRB,Water Polo,Men,13,13,Water Polo - Men,3
+SRB,Basketball,Basketball Men's Basketball,12,0,Basketball - Basketball Men's Basketball,4
+SRB,Volleyball,Volleyball Women's Volleyball,12,0,Volleyball - Volleyball Women's Volleyball,5
+SUD,Athletics,Athletics Men's 800 metres,1,0,Athletics - Athletics Men's 800 metres,1
+SUI,Rowing,Rowing Men's Lightweight Coxless Fours,4,4,Rowing - Rowing Men's Lightweight Coxless Fours,1
+SUI,Equestrianism,"Equestrianism Mixed Jumping, Team",4,0,"Equestrianism - Equestrianism Mixed Jumping, Team",2
+SUI,Cycling,"Cycling Men's Mountainbike, Cross-Country",3,1,"Cycling - Cycling Men's Mountainbike, Cross-Country",3
+SUI,Cycling Mountain Bike,Women's Cross-country,3,1,Cycling Mountain Bike - Women's Cross-country,4
+SUI,Cycling,Cycling Men's Individual Time Trial,2,2,Cycling - Cycling Men's Individual Time Trial,5
+SVK,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",8,0,"Canoeing - Canoeing Men's Kayak Fours, 1,000 metres",1
+SVK,Canoeing,"Canoeing Men's Canadian Doubles, Slalom",6,4,"Canoeing - Canoeing Men's Canadian Doubles, Slalom",2
+SVK,Canoe Sprint,Men's Kayak Four 500m Team,4,0,Canoe Sprint - Men's Kayak Four 500m Team,3
+SVK,Canoeing,"Canoeing Men's Canadian Singles, Slalom",3,1,"Canoeing - Canoeing Men's Canadian Singles, Slalom",4
+SVK,Shooting,Shooting Women's Trap,2,0,Shooting - Shooting Women's Trap,5
+SWE,Football,Women Team,22,0,Football - Women Team,1
+SWE,Football,Football Women's Football,18,0,Football - Football Women's Football,2
+SWE,Handball,Handball Men's Handball,14,0,Handball - Handball Men's Handball,3
+SWE,Sailing,Sailing Men's Two Person Keelboat,4,2,Sailing - Sailing Men's Two Person Keelboat,4
+SWE,Equestrian,Jumping Team,4,4,Equestrian - Jumping Team,5
+SYR,Weightlifting,Men's +109kg,1,0,Weightlifting - Men's +109kg,1
+THA,Taekwondo,Taekwondo Women's Flyweight,3,0,Taekwondo - Taekwondo Women's Flyweight,1
+THA,Weightlifting,Weightlifting Women's Lightweight,3,1,Weightlifting - Weightlifting Women's Lightweight,2
+THA,Taekwondo,Women -49kg,2,2,Taekwondo - Women -49kg,3
+THA,Boxing,Boxing Men's Light-Welterweight,1,0,Boxing - Boxing Men's Light-Welterweight,4
+THA,Taekwondo,Taekwondo Men's Flyweight,1,0,Taekwondo - Taekwondo Men's Flyweight,5
+TJK,Boxing,Boxing Women's Lightweight,1,0,Boxing - Boxing Women's Lightweight,1
+TJK,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",1,0,"Wrestling - Wrestling Men's Light-Heavyweight, Freestyle",2
+TJK,Judo,Judo Men's Lightweight,1,0,Judo - Judo Men's Lightweight,3
+TJK,Athletics,Athletics Men's Hammer Throw,1,1,Athletics - Athletics Men's Hammer Throw,4
+TJK,Judo,Men -81 kg,1,0,Judo - Men -81 kg,5
+TKM,Weightlifting,Women's 59kg,1,0,Weightlifting - Women's 59kg,1
+TOG,Canoeing,"Canoeing Men's Kayak Singles, Slalom",1,0,"Canoeing - Canoeing Men's Kayak Singles, Slalom",1
+TPE,Archery,Archery Women's Team,3,0,Archery - Archery Women's Team,1
+TPE,Archery,Men's Team,3,0,Archery - Men's Team,2
+TPE,Weightlifting,Weightlifting Women's Featherweight,2,1,Weightlifting - Weightlifting Women's Featherweight,3
+TPE,Badminton,Men's Doubles Team,2,2,Badminton - Men's Doubles Team,4
+TPE,Weightlifting,Women's 59kg,2,1,Weightlifting - Women's 59kg,5
+TTO,Athletics,Athletics Men's 4 x 100 metres Relay,9,5,Athletics - Athletics Men's 4 x 100 metres Relay,1
+TTO,Athletics,Athletics Men's 4 x 400 metres Relay,4,0,Athletics - Athletics Men's 4 x 400 metres Relay,2
+TTO,Athletics,Athletics Men's Javelin Throw,2,1,Athletics - Athletics Men's Javelin Throw,3
+TTO,Athletics,Athletics Men's 400 metres,1,0,Athletics - Athletics Men's 400 metres,4
+TTO,Athletics,Athletics Men's 100 metres,1,0,Athletics - Athletics Men's 100 metres,5
+TUN,Swimming,"Swimming Men's 1,500 metres Freestyle",2,1,"Swimming - Swimming Men's 1,500 metres Freestyle",1
+TUN,Taekwondo,Men -58kg,2,0,Taekwondo - Men -58kg,2
+TUN,Wrestling,"Wrestling Women's Lightweight, Freestyle",1,0,"Wrestling - Wrestling Women's Lightweight, Freestyle",3
+TUN,Fencing,"Fencing Women's Foil, Individual",1,0,"Fencing - Fencing Women's Foil, Individual",4
+TUN,Athletics,"Athletics Women's 3,000 metres Steeplechase",1,0,"Athletics - Athletics Women's 3,000 metres Steeplechase",5
+TUR,Archery,Men's Team,3,0,Archery - Men's Team,1
+TUR,Athletics,"Athletics Women's 1,500 metres",2,1,"Athletics - Athletics Women's 1,500 metres",2
+TUR,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",2,0,"Wrestling - Wrestling Men's Super-Heavyweight, Greco-Roman",3
+TUR,Taekwondo,Taekwondo Men's Featherweight,2,1,Taekwondo - Taekwondo Men's Featherweight,4
+TUR,Taekwondo,Taekwondo Women's Welterweight,2,0,Taekwondo - Taekwondo Women's Welterweight,5
+UAE,Judo,Judo Men's Half-Middleweight,1,0,Judo - Judo Men's Half-Middleweight,1
+UGA,Athletics,"Men's 10,000m",3,1,"Athletics - Men's 10,000m",1
+UGA,Athletics,Women's 3000m Steeplechase,2,1,Athletics - Women's 3000m Steeplechase,2
+UGA,Athletics,Athletics Men's Marathon,1,1,Athletics - Athletics Men's Marathon,3
+UGA,Athletics,Men's 5000m,1,1,Athletics - Men's 5000m,4
+UKR,Fencing,"Fencing Women's Sabre, Team",8,4,"Fencing - Fencing Women's Sabre, Team",1
+UKR,Artistic Swimming,Team,8,0,Artistic Swimming - Team,2
+UKR,Athletics,Athletics Women's 4 x 100 metres Relay,4,0,Athletics - Athletics Women's 4 x 100 metres Relay,3
+UKR,Rowing,Rowing Women's Quadruple Sculls,4,4,Rowing - Rowing Women's Quadruple Sculls,4
+UKR,Fencing,Women's Sabre Team,4,4,Fencing - Women's Sabre Team,5
+USA,Water Polo,Water Polo Women's Water Polo,38,25,Water Polo - Water Polo Women's Water Polo,1
+USA,Basketball,Basketball Men's Basketball,36,36,Basketball - Basketball Men's Basketball,2
+USA,Volleyball,Volleyball Women's Volleyball,36,0,Volleyball - Volleyball Women's Volleyball,3
+USA,Basketball,Basketball Women's Basketball,36,36,Basketball - Basketball Women's Basketball,4
+USA,Football,Football Women's Football,34,34,Football - Football Women's Football,5
+UZB,Judo,Judo Men's Extra-Lightweight,3,0,Judo - Judo Men's Extra-Lightweight,1
+UZB,Boxing,Boxing Men's Middleweight,2,0,Boxing - Boxing Men's Middleweight,2
+UZB,Wrestling,"Wrestling Men's Super-Heavyweight, Freestyle",2,2,"Wrestling - Wrestling Men's Super-Heavyweight, Freestyle",3
+UZB,Taekwondo,Men -68kg,2,2,Taekwondo - Men -68kg,4
+UZB,Wrestling,Men's Freestyle 74kg,2,1,Wrestling - Men's Freestyle 74kg,5
+VEN,Taekwondo,Taekwondo Women's Flyweight,1,0,Taekwondo - Taekwondo Women's Flyweight,1
+VEN,Cycling,Cycling Women's BMX,1,0,Cycling - Cycling Women's BMX,2
+VEN,Boxing,Boxing Men's Flyweight,1,0,Boxing - Boxing Men's Flyweight,3
+VEN,Fencing,"Fencing Men's epee, Individual",1,1,"Fencing - Fencing Men's epee, Individual",4
+VEN,Athletics,Athletics Women's Triple Jump,1,0,Athletics - Athletics Women's Triple Jump,5
+VIE,Shooting,"Shooting Men's Air Pistol, 10 metres",1,1,"Shooting - Shooting Men's Air Pistol, 10 metres",1
+VIE,Shooting,"Shooting Men's Free Pistol, 50 metres",1,0,"Shooting - Shooting Men's Free Pistol, 50 metres",2
+VIE,Weightlifting,Weightlifting Men's Bantamweight,1,0,Weightlifting - Weightlifting Men's Bantamweight,3
+ZAM,Athletics,Men's 400m,1,0,Athletics - Men's 400m,1
+ZIM,Swimming,Swimming Women's 200 metres Backstroke,1,1,Swimming - Swimming Women's 200 metres Backstroke,1
+ZIM,Swimming,Swimming Women's 100 metres Backstroke,1,0,Swimming - Swimming Women's 100 metres Backstroke,2
+ZIM,Swimming,Swimming Women's 400 metres Individual Medley,1,0,Swimming - Swimming Women's 400 metres Individual Medley,3
+ZIM,Swimming,Swimming Women's 200 metres Individual Medley,1,0,Swimming - Swimming Women's 200 metres Individual Medley,4
